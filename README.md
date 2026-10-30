@@ -1,4 +1,4 @@
-# JetBrains UX Test — Click Heatmaps
+# JetBrains UX Test: Click Heatmaps
 
 This repository contains my solution for Task 1 of the JetBrains internship test assignment.
 
